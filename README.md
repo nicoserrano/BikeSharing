@@ -13,6 +13,6 @@
   - Tableau Public
 
 ## Results
-
+[Tableau Story](https://public.tableau.com/app/profile/juan.nicolas.serrano/viz/CitiBikeProposal_16288132514370/Story1?publish=yes)
 
 
