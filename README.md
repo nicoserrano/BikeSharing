@@ -34,3 +34,9 @@ As it can be seen in the *User Trips Dashboard*, almost 80% of the users are sub
 ![Screen Shot 2021-08-13 at 3 32 04 PM](https://user-images.githubusercontent.com/83378141/129412450-b3f1a2ef-6562-4a3d-983f-c28f1527b368.png)
 
 In this worksheet, we can see the trip duration by gender. As it can be seen, all genders usually use the bikes for 5 minutes approximately. After 5 minutes, the trip durations start to slope down. Almost nobody uses the bikes after 45 minutes, where the slope starts to decline by a lot. 
+
+![Screen Shot 2021-08-13 at 3 32 31 PM](https://user-images.githubusercontent.com/83378141/129424212-9b8d76f8-f8d7-4905-af52-7d3f77dd8450.png)
+
+Here we can see the gender breakdown, which shows that the majority of customers are male with approximately 65% market share, then women with 25%, and finally unknown gender with 10%. 
+
+
