@@ -39,4 +39,7 @@ In this worksheet, we can see the trip duration by gender. As it can be seen, al
 
 Here we can see the gender breakdown, which shows that the majority of customers are male with approximately 65% market share, then women with 25%, and finally unknown gender with 10%. They all happen to have the same heatmap which shows how they have the same behavior on using bikes at the same times (8am and 5-6pm for the most part). 
 
+![Screen Shot 2021-08-13 at 3 32 42 PM](https://user-images.githubusercontent.com/83378141/129426931-d140ac20-6871-4dad-8339-6e5791661daf.png)
+
+And last but not least, we can see NYC's start and end trip spread. Even though this is the map for New York City, we can expect a similar behavior in other cities. There is always a more populated area (in this case Manhattan), where the majority of the bikes would be used. But in general, we can expect a very spread out utilization with full coverage. If possible, we could even provide price incentives for less populated areas. 
 
