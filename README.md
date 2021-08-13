@@ -5,7 +5,7 @@
 
 ## Resources
 - Dataset
-  - citi bike
+  - Download the `201908-citibike-tripdata.csv.zip` from this [CitiBike link](https://s3.amazonaws.com/tripdata/index.html) 
 
 - Software
   - Python
