@@ -37,6 +37,6 @@ In this worksheet, we can see the trip duration by gender. As it can be seen, al
 
 ![Screen Shot 2021-08-13 at 3 32 31 PM](https://user-images.githubusercontent.com/83378141/129424212-9b8d76f8-f8d7-4905-af52-7d3f77dd8450.png)
 
-Here we can see the gender breakdown, which shows that the majority of customers are male with approximately 65% market share, then women with 25%, and finally unknown gender with 10%. 
+Here we can see the gender breakdown, which shows that the majority of customers are male with approximately 65% market share, then women with 25%, and finally unknown gender with 10%. They all happen to have the same heatmap which shows how they have the same behavior on using bikes at the same times (8am and 5-6pm for the most part). 
 
 
