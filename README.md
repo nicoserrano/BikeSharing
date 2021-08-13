@@ -16,6 +16,7 @@ This project consisted on creating a pitch for a citi bike (bikesharing) busines
 
 ## Results
 [Tableau Public Story](https://public.tableau.com/app/profile/juan.nicolas.serrano/viz/CitiBikeProposal_16288132514370/Story1?publish=yes)
+
 This presentation was based on New York City but could be applied, with the necessary attention, to other cities in the World. 
 
 ![Screen Shot 2021-08-13 at 3 31 27 PM](https://user-images.githubusercontent.com/83378141/129409815-46ddecae-7a28-4507-92f2-a72d5fb0689c.png)
@@ -28,3 +29,8 @@ Moreover, this heatmap supports this theory as it displays how the most heated a
 
 ![Screen Shot 2021-08-13 at 3 31 52 PM](https://user-images.githubusercontent.com/83378141/129411216-12d53132-f023-4752-9447-69d6738d3e14.png)
 
+As it can be seen in the *User Trips Dashboard*, almost 80% of the users are subscribers, meanwhile the others are just customers who sometimes use the bikes. This means that user retention is pretty high and wherever the bikesharing business is created we should strive to give incentives for customers to become subscribers. More specifically, male subscribers are the most popular users followed by female subscribers. There are also many customers who happen to avoid the gender selection, so they appear as unknown gender. We should try to engage more customers as a whole. 
+
+![Screen Shot 2021-08-13 at 3 32 04 PM](https://user-images.githubusercontent.com/83378141/129412450-b3f1a2ef-6562-4a3d-983f-c28f1527b368.png)
+
+In this worksheet, we can see the trip duration by gender. As it can be seen, all genders usually use the bikes for 5 minutes approximately. After 5 minutes, the trip durations start to slope down. Almost nobody uses the bikes after 45 minutes, where the slope starts to decline by a lot. 
