@@ -43,3 +43,9 @@ Here we can see the gender breakdown, which shows that the majority of customers
 
 And last but not least, we can see NYC's start and end trip spread. Even though this is the map for New York City, we can expect a similar behavior in other cities. There is always a more populated area (in this case Manhattan), where the majority of the bikes would be used. But in general, we can expect a very spread out utilization with full coverage. If possible, we could even provide price incentives for less populated areas. 
 
+## Summary
+
+To further analyze the citi bike business proposition, we created one more visualization in which we observed rides by age. To calculate age I created a Tableau calculated field in which I used the date of birth to get the age. As it can be seen, users have to be 18 years old in order to be able to use the bikes. Also, there is a outlier at 52 years old for 'unknown' gender, which we would have to further analyze because it might be affecting our findings. 
+
+![Screen Shot 2021-08-21 at 12 28 34 PM](https://user-images.githubusercontent.com/83378141/130328555-d36533e4-57af-45f7-9802-a491b60f291a.png)
+
