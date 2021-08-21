@@ -45,7 +45,7 @@ And last but not least, we can see NYC's start and end trip spread. Even though 
 
 ## Summary
 
-To further analyze the citi bike business proposition, we created one more visualization in which we observed rides by age. To calculate age I created a Tableau calculated field in which I used the date of birth to get the age. As it can be seen, users have to be 18 years old in order to be able to use the bikes. Also, there is a outlier at 52 years old for 'unknown' gender, which we would have to further investigate because it might be affecting our findings. 
+To further analyze the citi bike business proposition, we created one more visualization in which we observed rides by age. To calculate age I created a Tableau calculated field in which I used the date of birth to get the age. As it can be seen, users have to be 18 years old in order to be able to use the bikes. Also, there is a outlier at 52 years old for 'unknown' gender with over 200,000 rides, which we would have to further investigate because it might be affecting our findings.
 
 ![Screen Shot 2021-08-21 at 12 28 34 PM](https://user-images.githubusercontent.com/83378141/130328555-d36533e4-57af-45f7-9802-a491b60f291a.png)
 
