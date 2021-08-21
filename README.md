@@ -49,3 +49,4 @@ To further analyze the citi bike business proposition, we created one more visua
 
 ![Screen Shot 2021-08-21 at 12 28 34 PM](https://user-images.githubusercontent.com/83378141/130328555-d36533e4-57af-45f7-9802-a491b60f291a.png)
 
+And last but not least, another interesting metric to analyze could be if users use the bikes for daily commutes, leizure, or just rarely. This data could then be used to engage more customers or even convert customers into subscribers. We could then analyze it by gender, age, or other metrics to understand better our market. 
